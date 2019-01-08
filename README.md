@@ -7,7 +7,7 @@ Several documents regarding Lindbergh arcade board containing public information
 ## Status
 Only a games list is currently available at the moment
 
-## License
+## License [![CCBYNC40 logo](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 All the files published are under the Creative Commons Attribution-NonCommercial 4.0 International License
 
 ## Trademarks
