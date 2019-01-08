@@ -1,0 +1,174 @@
+# Sega(R) Lindbergh Games List
+#
+# Author: subwave07
+# Last Revision: 2019-01-08
+# Disclaimer: this list may not be correct or complete, additions or corrections are well accepted
+# License: GNU v3
+
+
+
+|============|=============================================|======|==================|================|=========|===============|=================|=======|
+| DVD Serial |                     Game                    | Year | Lindbergh System | Keychip Serial | Boot ID |     Kernel    |    Boot Ver.    | Notes |
+|============|=============================================|======|==================|================|=========|===============|=================|=======|
+| DVP-0001J  | Star Horse 2: New Generation                | 2005 | Blue             |                | SBKM    |               |                 |       |
+| DVP-0003A  | The House of the Dead 4                     | 2005 | Yellow           | 253-5508-0427  | SBLC    | 2.4.20_mvl31a | 2.01 BUILD 0002 |       |
+| DVP-0003B  | The House of the Dead 4                     | 2006 | Yellow           | 253-5508-0427  |         | 2.4.20_mvl31a |                 |       |
+| DVP-0003C  | The House of the Dead 4                     | 2006 | Yellow           | 253-5508-0427  |         | 2.4.20_mvl31a |                 |       |
+| DVP-0005   | Virtua Tennis 3 (POWER SMASH 3)             | 2006 | Yellow           | 253-5508-0434  | SBKX    |               |                 |       |
+| DVP-0005A  | Virtua Tennis 3 (POWER SMASH 3)             | 2006 | Yellow           | 253-5508-0434  | SBKX    | 2.4.20_mvl31a | 2.01 BUILD 0002 |       |
+| DVP-0005B  | Virtua Tennis 3 (POWER SMASH 3)             | 2006 | Yellow           | 253-5508-0434  | SBKX    |               |                 |       |
+| DVP-0005C  | Virtua Tennis 3 (POWER SMASH 3)             | 2006 | Yellow           | 253-5508-0506  | SBKX    |               |                 |       |
+| DVP-0007C  | AMI-GYO                                     | 2006 | Yellow           |                |         |               |                 |       |
+| DVP-0008A  | Virtua Fighter 5                            | 2006 | Yellow           | 253-5508-0438  | SBLM    |               |                 |       |
+| DVP-0008B  | Virtua Fighter 5                            | 2007 | Yellow           | 253-5508-0438  | SBLM    |               |                 |       |
+| DVP-0008C  | Virtua Fighter 5                            | 2007 | Yellow           | 253-5508-0438  | SBLM    |               |                 |       |
+| DVP-0008D  | Virtua Fighter 5                            | 2008 | Yellow           | 253-5508-0438  | SBLM    |               |                 |       |
+| DVP-0008E  | Virtua Fighter 5                            | 2008 | Yellow           | 253-5508-0438  | SBLM    | 2.4.20_mvl31a | 2.01 BUILD 0002 |       |
+| DVP-0009   | After Burner Climax                         | 2006 | Yellow           | 253-5508-0440A | SBLR    | 2.4.20_mvl31a |                 |       |
+| DVP-0010B  | The House of the Dead 4 Special             | 2006 | Yellow           |                | SBLS    |               |                 |       |
+| DVP-0011   | Let's Go Jungle!                            | 2006 | Yellow           | 253-5508-0442  | SBLU    | 2.4.20_mvl31a | 3.00 BUILD 0012 |       |
+| DVP-0011A  | Let's Go Jungle!                            | 2006 | Yellow           | 253-5508-0442  | SBLU    |               |                 |       |
+| DVP-0015A  | Outrun2 SP SDX                              | 2007 | Yellow           | 253-5508-0452  |         |               |                 |       |
+| DVP-0016C  | Sega Network Casino Club STD                | 2007 | Yellow           | 253-5508-0573  |         |               |                 |       |
+| DVP-0018A  | After Burner Climax SDX                     | 2006 | Yellow           | 253-5508-0463  | SBMN    |               |                 |       |
+| DVP-0019   | Initial D Arcade Stage 4                    | 2006 | Yellow           | 253-5508-0486J | SBML    |               |                 |       |
+| DVP-0019A  | Initial D Arcade Stage 4                    | 2007 | Yellow           | 253-5508-0486J | SBML    |               |                 |       |
+| DVP-0019B  | Initial D Arcade Stage 4                    | 2007 | Yellow           | 253-5508-0486J | SBML    |               |                 |       |
+| DVP-0019C  | Initial D Arcade Stage 4                    | 2007 | Yellow           | 253-5508-0486J | SBML    |               |                 |       |
+| DVP-0019D  | Initial D Arcade Stage 4                    | 2007 | Yellow           | 253-5508-0486J | SBML    |               |                 |       |
+| DVP-0019G  | Initial D Arcade Stage 4                    | 2007 | Yellow           | 253-5508-0486J | SBML    |               |                 |       |
+| DVP-0021A  | VBIOS Update                                |      | Yellow           |                |         |               |                 |       |
+| DVP-0021B  | VBIOS Update                                |      | Yellow           |                | SBMC    |               |                 |       |
+| DVP-0023A  | VBIOS Update (FOR VTF)                      |      | Yellow           |                | SBLM    |               |                 |       |
+| DVP-0023C  | VBIOS Update (FOR VTF)                      |      | Yellow           |                | SBLM    |               |                 |       |
+| DVP-0024E  | Star Horse 2: Second Fusion                 | 2006 | Blue             |                | SBKM    |               |                 |       |
+| DVP-0025H  | Answer x Answer                             | 2007 | Red              | 253-5508-0618J | SBMS    |               |                 |       |
+| DVP-0026   | Router Update (For VTF)                     |      | Yellow           |                | SBLM    |               |                 |       |
+| DVP-0027A  | 2SPICY                                      | 2007 | Red              | 253-5508-0491  | SBMF    | 2.6.10_mvl40a | 4.10 BUILD 0003 |       |
+| DVP-0028   | To AMI-GYO                                  | 2007 | Yellow           | 253-5508-0476J | SBLP    |               |                 |       |
+| DVP-0029A  | Ghost Squad Evolution                       | 2007 | Red              | 253-5508-0485  | SBNK    |               |                 |       |
+| DVP-0030   | Initial D 4                                 | 2007 | Yellow           | 253-5508-0486E | SBNK    |               |                 |       |
+| DVP-0030B  | Initial D 4                                 | 2007 | Yellow           | 253-5508-0486E | SBNK    |               |                 |       |
+| DVP-0030C  | Initial D 4                                 | 2007 | Yellow           | 253-5508-0486E | SBNK    |               |                 |       |
+| DVP-0030D  | Initial D 4                                 | 2007 | Yellow           | 253-5508-0486E | SBNK    | 2.6.10_mvl40a | 5.10 BUILD 0006 |       |
+| DVP-0031A  | After Burner Climax CE                      | 2007 | Yellow           |                |         |               |                 |       |
+| DVP-0032   | Cosmic Challenge                            |      |                  |                | SBNM    |               |                 |       |
+| DVP-0032C  | Cosmic Challenge                            |      |                  |                | SBNM    |               |                 |       |
+| DVP-0033C  | Atractive Deck Poker                        |      |                  |                | SBNN    |               |                 |       |
+| DVP-0034E  | Cloud Nine                                  |      |                  |                | SBNP    |               |                 |       |
+| DVP-0035D  | Wheel Maniacs                               |      |                  |                | SBNQ    |               |                 |       |
+| DVP-0036A  | Let's Go Jungle! Special                    | 2007 | Yellow           |                | SBNR    |               |                 |       |
+| DVP-0043   | Virtua Fighter 5                            | 2008 | Yellow           |                | SBLM    | 2.4.20_mvl31a | 3.00 BUILD 0012 |       |
+| DVP-0044   | Sega-Race TV                                | 2008 | Yellow           | 253-5508-0504  | SBPF    | 2.6.10_mvl40a | 5.10 BUILD 0006 |       |
+| DVP-0046G  | Star Horse 2: Third Evolution               | 2007 | Blue             |                | SBPM    |               |                 |       |
+| DVP-0047A  | Derby Owners Club 2008: Feel The Rush       | 2008 | Blue             | 253-5508-0511  |         |               |                 |       |
+| DVP-0048A  | Primeval Hunt                               | 2008 | Red              | 253-5508-0512  | SBPP    | 2.6.10_mvl40a |                 |       |
+| DVP-0049F  | SEGA Network Taisen Mahjong MJ4 (Server)    | 2008 | Red              | 253-5508-0514  | SBPN    |               |                 |       |
+| DVP-0049F  | SEGA Network Taisen Mahjong MJ4 (Satellite) | 2008 | Red              | 253-5508-0515  | SBPN    |               |                 |       |
+| DVP-0050C  | INFO STATION 2                              |      | Yellow           |                |         |               |                 |       |
+| DVP-0053   | Sega Network Casino Club Ver.2              | 2008 | Yellow           | 253-5508-0525  | SBPW    |               |                 |       |
+| DVP-0053B  | Sega Network Casino Club Ver.2              | 2008 | Yellow           | 253-5508-0525  | SBPW    |               |                 |       |
+| DVP-0054D  | Star Horse 2: Third Evolution               |      | Blue             |                |         |               |                 |       |
+| DVP-0057B  | Hummer                                      | 2009 | Yellow           |                |         |               |                 |       |
+| DVP-0060   | R-Tuned: Ultimate Street Racing             | 2008 | Yellow           |                | SBQW    | 2.6.10_mvl40a | 5.11 BUILD 0003 |       |
+| DVP-0063   | The House of the Dead EX                    | 2008 | Red              | 253-5508-0550  | SBRC    | 2.6.10_mvl40a | 5.11 BUILD 0003 |       |
+| DVP-0067   | Answer X Answer 2                           | 2009 | Red              |                | SBRJ    |               |                 |       |
+| DVP-0069   | Rambo                                       | 2008 | Red EX           | 253-5508-0540  | SBQL    | 2.6.10_mvl40a | 5.11 BUILD 0003 |       |
+| DVP-0070A  | Initial D Arcade Stage 5 (Server)           | 2009 | Yellow           | 253-5508-0546J | SBQZ    |               |                 |       |
+| DVP-0070A  | Initial D Arcade Stage 5 (Client)           | 2009 | Yellow           | 253-5508-0547J | SBQZ    |               |                 |       |
+| DVP-0075   | Initial D Arcade Stage 5 EXP 2.0            | 2009 | Yellow           | 253-5640-006   | SBTS    | 2.6.10_mvl40a | 5.11 BUILD 0003 |       |
+| DVP-0075   | Initial D Arcade Stage 5                    | 2009 | Yellow           | 253-5508-0577E | SBPF    | 2.6.10_mvl40a | 5.11 BUILD 0003 |       |
+| DVP-0079   | Hummer Extreme                              | 2009 | Yellow           |                | SBST    | 2.6.10_mvl40a | 5.11 BUILD 0003 |       |
+| DVP-0081   | SEGA Network Taisen Mahjong MJ4 Evolution   |      | Red              | 253-5640-003   | SBTA    | 2.6.10_mvl40a | 5.11 BUILD 0003 |       |
+| DVP-0082D  | Star Horse 2: Fifth Expansion               | 2009 | Blue             | 253-5508-0585J | SBSM    |               |                 |       |
+| DVP-0082E  | Star Horse 2: Fifth Expansion               | 2009 | Blue             | 253-5508-0585J | SBSM    |               |                 |       |
+| DVP-5004D  | Virtua Fighter 5 R                          | 2008 | Yellow           | 253-5508-0622J | SBQU    |               |                 |       |
+| DVP-5006C  | Derby Owners Club 2008: Feel the Rush       | 2008 | Blue             | 253-5508-0511  | SBMQ    |               |                 |       |
+| DVP-5007   | Harley-Davidson: King of the Road           | 2009 | Red EX           | 253-5508-0555  | SBRG    |               |                 |       |
+| DVP-5012   | WCCF Intercontinental Clubs 2008-2009       | 2009 | Blue             | 253-5508-0581J | SBSH    |               |                 |       |
+| DVP-5014   | Derby Owners Club 2009: Ride for the Live   | 2009 | Blue             | 253-5508-0511  | SBMQ    |               |                 |       |
+
+
+
+Missing DVD Serials
+==========================================================================================
+Ami-No-San / Ami No.3 - 2010 - Yellow
+Blackjack Nailed Ace - 2008
+Club Majesty Formal - 2007 - Red
+Club Majesty Extend - 2007 - Red
+Derby Owners Club 2008: Feel the Rush 2.0
+Derby Owners Club 2009: Ride for the Live Ver.1.1 - 2009 - Blue
+Derby Owners Club 2009: Ride for the Live Ver.1.2 - 2010 - Blue
+Harley-Davidson: King of the Road - 2009 - Red Ex
+Initial D: Arcade Stage 4 Limited - 2008 - Yellow
+Initial D: Arcade Stage 4 Kai (Break) - 2008 - Yellow
+Lindbergh SH2 Server (Windows XP) - 253-5508-0418J - SBKM
+Outrun2 SP - 2006 - Yellow
+Psi-Phy - 2006 - - Yellow - Prototype (Not released)
+Sangokushi Taisen III - 2008 - Yellow
+Sangokushi Taisen III Ver.3.1 - 2008 - Yellow
+Sangokushi Taisen III Ver.3.2 - 2008 - Yellow
+Sangokushi Taisen III Ver.3.3 - 2008 - Yellow
+Sangokushi Taisen III Ver.3.4 - 2009 - Yellow
+Sangokushi Taisen III Ver.3.5 - 2009 - Yellow
+Sangokushi Taisen III Ver.3.51 - 2009 - Yellow
+Sangokushi Taisen III: War Begins - 2010 - Yellow
+Sangokushi Taisen III: War Begins Ver.3.59_1 - 2010 - Yellow
+Sangokushi Taisen III: War Begins Ver.3.59_2 - 2010 - Yellow
+Sangokushi Taisen III: War Begins Ver.3.59_3 - 2011 - Yellow
+Sangokushi Taisen III: War Begins Ver.3.59_B_2 - 2011 - Yellow
+Sangokushi Taisen III: War Begins Ver.3.59_B_3 - 2011 - Yellow
+Sangokushi Taisen III: War Begins Ver.3.59_C3 - 2011 - Yellow
+Sangokushi Taisen III: War Begins Ver.3.594_A - 2012 - Yellow
+Sangokushi Taisen III: War Begins Ver.3.595 - 2012 - Yellow - 253-5508-0620 - 2.4.20-RTL
+Sega Network Casino Club  Ver.3.0 - 2009 - Yellow
+Sega Network Casino Club  Ver.3.2 - 2010 - Yellow
+Sega Network Taisen Mahjong MJ4 Evolution - 2010 - Red
+Sega Network Taisen Mahjong MJ4 Evolution Ver.A - 2010 - Red
+Sega Network Taisen Quiz Answer X Answer 1.1 - 2007 - Red
+Sega Network Taisen Quiz Answer X Answer DX - 2008 - Red
+Sega Network Taisen Quiz Answer X Answer Premium - 2008 - Red
+Sega Network Taisen Quiz Answer X Answer DX+ - 2010 - Red
+Sega Network Taisen Quiz Answer X Answer LIVE! - 2010 - Red
+Sega Network Taisen Quiz Answer X Answer LIVE! AA - 2011 - Red
+Star Horse 2: Fourth Ambition - 2008 - Blue
+Star Horse 2: Final Destination - 2010 - Blue - 253-5508-0619J - SBUN
+The World of Three Kingdoms - 2007 - Yellow
+Virtua Fighter 5 R Ver.A - 2009 - Yellow
+Virtua Fighter 5 R Ver.A Rev.1 - 2009 - Yellow
+Virtua Fighter 5 R Ver.B - 2009 - Yellow
+Virtua Fighter 5 R Ver.B Rev.1 - 2009 - Yellow
+Virtua Fighter 5 R Ver.B Rev.2 - 2009 - Yellow
+Virtua Fighter 5 R Ver.C - 2009 - Yellow
+Virtua Fighter 5: Final Showdown Rev.1 - 2010 - Yellow
+Virtua Fighter 5: Final Showdown Ver.A - 2011 - Yellow
+Virtua Fighter 5: Final Showdown Ver.A Rev.1 - 2011 - Yellow
+World Club Champion Football Intercontinental Clubs 2006-2007 - 2006 - Blue
+World Club Champion Football Intercontinental Clubs 2007-2008 - 2007 - Blue
+World Club Champion Football Intercontinental Clubs 2009-2010 - 2009 - Blue
+World Club Champion Football Intercontinental Clubs 2009-2010 Ver.1.1. - 2011 - Blue
+Wally Wo Sagase! The Medal - 253-5508-0549
+? - 253-5508-0572 - SBRV
+? - DVP-0084
+
+
+
+Sources
+==========================================================================================
+Sega Interactive, https://sega-interactive.co.jp/
+Sega Arcade Amusements, https://www.segaarcade.com/
+*** HUGE SEGA LINDBERGH COLLECTION ***, https://www.ebay.com/itm/HUGE-SEGA-LINDBERGH-COLLECTION-/172246904239
+WorthPoint, https://www.worthpoint.com/inventory/search?query=Sega+Lindbergh
+eBay, https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=Sega+Lindbergh&_sacat=0
+Yahoo! Auctions JP, https://auctions.yahoo.co.jp/search/search?auccat=&tab_ex=commerce&ei=utf-8&aq=-1&oq=&sc_i=&exflg=1&p=Sega+Lindbergh&x=0&y=0&fixed=0
+Yahoo! Auctions JP, https://auctions.yahoo.co.jp/search/search?auccat=&tab_ex=commerce&ei=utf-8&aq=-1&oq=&sc_i=&exflg=1&p=%E3%82%BB%E3%82%AC+%E3%83%AA%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0&x=17&y=24&fixed=0
+Lindbergh MAME Driver, https://github.com/mamedev/mame/blob/master/src/mame/drivers/lindbergh.cpp
+Lindbergh (@GakmanForum), http://gakman.forumactif.com/t69-lindbergh
+Lindbergh Yellow (@System16), http://www.system16.com/hardware.php?id=731
+Lindbergh Red (@System16), http://www.system16.com/hardware.php?id=984
+Lindbergh Red EX (@System16), http://www.system16.com/hardware.php?id=986
+Lindbergh Blue (@System16), http://www.system16.com/hardware.php?id=985
+Serial des jeux SEGA lindbergh (@SegaLindberghBlog), https://sega-lindbergh.blogspot.com/2014/11/serial-des-jeux-sega-lindbergh-completer.html
+Sega Lindbergh games (@WikiRedump), http://wiki.redump.org/index.php?title=Sega_Lindbergh_games
+Sega Arcade (@GoogleDocs), https://docs.google.com/spreadsheets/d/1l8FCCvqcpizU09q_pBjbWvYOsJwX9zdEVw4qayfLqjQ/edit#gid=0
+Lindbergh Games List (@Lindbergh-Emulator), https://github.com/JayFoxRox/Lindbergh-Emulator/blob/master/doc/games
