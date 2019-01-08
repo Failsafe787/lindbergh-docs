@@ -8,7 +8,7 @@ Several documents regarding Lindbergh arcade board containing public information
 Only a games list is currently available at the moment
 
 ## License
-All the files published are under the GNU General Public License v3
+All the files published are under the Creative Commons Attribution-NonCommercial 4.0 International License
 
 ## Trademarks
 Sega, Lindbergh, games names, logos and pictures are registered trademarks of SEGA Holdings Co., Ltd and/or its partners.
