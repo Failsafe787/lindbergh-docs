@@ -1,8 +1,9 @@
+![Lindbergh logo](README.md_images/main.svg)
+
+
 # Sega Lindbergh Docs
 
 Several documents regarding Lindbergh arcade board containing public informations gathered from all over the web
-
-![Lindbergh logo](README.md_images/main.svg)
 
 ## Status
 Only a games list is currently available at the moment
