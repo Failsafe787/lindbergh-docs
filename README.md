@@ -17,4 +17,5 @@ All rights reserved.
 
 ## Aknowledgements
 Lindbergh Logo taken from SegaRetro.org and made by [Black Squirrel](https://segaretro.org/User:Black_Squirrel)
+
 Other aknowledgements are displayed at the end of each file
