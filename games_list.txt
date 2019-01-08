@@ -3,7 +3,7 @@
 # Author: subwave07
 # Last Revision: 2019-01-08
 # Disclaimer: this list may not be correct or complete, additions or corrections are well accepted
-# License: GNU v3
+# License: Creative Commons Attribution-NonCommercial 4.0 International
 
 
 
