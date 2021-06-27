@@ -87,6 +87,7 @@
 | DVP-5007   | Harley-Davidson: King of the Road           | 2009 | Red EX           | 253-5508-0555  | SBRG    |               |                 |       |
 | DVP-5012   | WCCF Intercontinental Clubs 2008-2009       | 2009 | Blue             | 253-5508-0581J | SBSH    |               |                 |       |
 | DVP-5014   | Derby Owners Club 2009: Ride for the Live   | 2009 | Blue             | 253-5508-0511  | SBMQ    |               |                 |       |
+| DVP-5019A  | Virtua Fighter 5 Final Showdown             | 2008 | Yellow           |                |         |               |                 |       |
 ===========================================================================================================================================================
 
 
